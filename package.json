@@ -1,0 +1,29 @@
+{
+  "name": "nails-twitter",
+  "version": "0.0.1",
+  "description": "A Twitter service for nails-framework",
+  "main": "lib/twitter.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nails/nails-twitter"
+  },
+  "keywords": [
+    "nails",
+    "nails-plugin",
+    "nails-service",
+    "twitter",
+    "twit"
+  ],
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nails/nails-twitter/issues"
+  },
+  "homepage": "https://github.com/nails/nails-twitter",
+  "dependencies": {
+    "twit": "^1.1.13"
+  }
+}
